@@ -51,7 +51,7 @@ For me, engineering is about taking complex data, driving team execution, and bu
       <td align="center">B.Tech Undergraduate<br>Artificial Intelligence & Data Science<br><em>VESIT Mumbai</em></td>
       <td align="center"><strong>9.63 CGPA</strong><br>(Upto Sem 4)<br><em>Top Tier</em></td>
       <td align="center"><strong>1x Winner</strong><br>3rd Place <br><em>IIT Bombay Techfest</em></td>
-      <td align="center"><strong>1x National Finalist</strong><em>PU Code Hackathon 3.0</em></td>
+      <td align="center"><strong>1x National Finalist</strong><br><em>PU Code Hackathon 3.0</em></td>
     </tr>
   </table>
 </p>

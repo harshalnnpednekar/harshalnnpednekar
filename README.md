@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=&fontSize=90" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Harshal Pednekar</h1>
 
 <p align="center">
-  <strong>Artificial Intelligence & Data Science Student · Machine Learning Developer · GenAI Architect</strong>
+  <strong>Artificial Intelligence & Data Science Student · Machine Learning Developer · Generative AI Architect</strong>
 </p>
 
 <p align="center">
@@ -26,15 +26,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshalnnpednekar&label=PROFILE%20VIEWS&style=for-the-badge&color=22c55e" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
 
-I am an AI & Data Science student at VESIT who focuses on building intelligent systems that solve real-world problems. I thrive in fast-paced, competitive engineering environments—whether leading development teams under tight hackathon deadlines or developing deployment-ready models from scratch. 
+I am an **Artificial Intelligence** and **Data Science** student at VESIT who focuses on building intelligent systems that solve real-world problems. I thrive in fast-paced, competitive engineering environments—whether leading development teams under tight hackathon deadlines or constructing architectures from scratch. 
+
+My primary core domains and operational focus include:
+* **Machine Learning** & **Deep Learning** pipeline deployment
+* **Natural Language Processing (NLP)** & **Large Language Models (LLMs)**
+* **Retrieval-Augmented Generation (RAG)** systems & autonomous Agentic workflows
+* **Computer Vision** frameworks & advanced exploratory **Data Analytics**
 
 For me, engineering is about more than just writing code; it is about taking complex data, driving team execution, and building dependable tools that deliver actual impact.
 
@@ -47,7 +49,7 @@ For me, engineering is about more than just writing code; it is about taking com
       <td align="center">🏁 <strong>Hackathon Record</strong></td>
     </tr>
     <tr>
-      <td align="center">B.Tech Undergraduate<br>AI & Data Science<br><em>VESIT Mumbai</em></td>
+      <td align="center">B.Tech Undergraduate<br>Artificial Intelligence & Data Science<br><em>VESIT Mumbai</em></td>
       <td align="center"><strong>9.63 CGPA</strong><br>(Upto Sem 4)<br><em>Top Tier</em></td>
       <td align="center"><strong>1x Winner</strong><br>3rd Place (Team Leader)<br><em>IIT Bombay Techfest</em></td>
       <td align="center"><strong>1x National Finalist</strong><br>Team Leader<br><em>PU Code Hackathon 3.0</em></td>
@@ -116,6 +118,9 @@ For me, engineering is about more than just writing code; it is about taking com
   <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=ffffff" alt="Harshal's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=a855f7&fire=a855f7" alt="Harshal's GitHub Streak" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalnnpednekar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=22c55e" alt="Harshal's Top Languages" width="60%" />
+</p>
 
 ---
 
@@ -132,8 +137,7 @@ For me, engineering is about more than just writing code; it is about taking com
 ## 💼 Experience
 
 🔬 **Data Analytics Intern** · *Tata GenAI Powered Platform (Virtual)*
-📅 *Aug 2024 – Present*
-* Leveraged GenAI architectures for complex data cleaning configurations and exploratory data analysis (EDA).
+* Leveraged Generative AI architectures for complex data cleaning configurations and exploratory data analysis (EDA).
 * Synthesized business trend datasets to formulate strategic visual dashboards for corporate insight groups.
 
 ---

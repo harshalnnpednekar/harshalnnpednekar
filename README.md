@@ -1,34 +1,99 @@
-# 👋 Hi, I'm Harshal Pednekar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=&fontSize=90" width="100%" alt="Header Banner" />
+</p>
 
-### AI & Data Science Student · Machine Learning Developer · GenAI Architect
+<h1 align="center">👋 Hi, I'm Harshal Pednekar</h1>
+
+<p align="center">
+  <strong>Artificial Intelligence & Data Science Student · Machine Learning Developer · GenAI Architect</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20HACKATHONS-1x%20WIN-black?style=for-the-badge&labelColor=1a1a1a&color=a855f7" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/📊%20ACADEMICS-9.63%20CGPA-black?style=for-the-badge&labelColor=1a1a1a&color=22c55e" alt="CGPA" />
+  <img src="https://img.shields.io/badge/💼%20EXPERIENCE-TATA%20VIRTUAL%20INTERN-black?style=for-the-badge&labelColor=1a1a1a&color=0284c7" alt="Experience" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshal-pednekar" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/harshalnnpednekar" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:harsh.pednekar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshalnnpednekar&label=PROFILE%20VIEWS&style=for-the-badge&color=22c55e" alt="Profile Views" />
+</p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I specialize in the development of end-to-end Machine Learning pipelines, Generative AI architectures, and autonomous AI Agents. Currently pursuing my B.Tech in Artificial Intelligence & Data Science at Vivekanand Education Society's Institute of Technology (VESIT). My core technical expertise encompasses Deep Learning, Neural Networks, Natural Language Processing (NLP), and Computer Vision. 
+I am an AI & Data Science student at VESIT who focuses on building intelligent systems that solve real-world problems. I thrive in fast-paced, competitive engineering environments—whether leading development teams under tight hackathon deadlines or developing deployment-ready models from scratch. 
 
-Proven in competitive technical environments, I focus on translating complex datasets and Large Language Models (LLMs) into scalable, deployment-ready intelligent systems.
+For me, engineering is about more than just writing code; it is about taking complex data, driving team execution, and building dependable tools that deliver actual impact.
 
-🎓 **B.Tech Undergraduate** | 📊 **9.63 CGPA (Upto Sem 4)** | 🏆 **1x Datathon Winner** | 🏁 **1x National Hackathon Finalist**
-*VESIT Mumbai* | *AI & Data Science* | *IIT Bombay Techfest* | *PU Code Hackathon 3.0*
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">🎓 <strong>Degree & Institution</strong></td>
+      <td align="center">📊 <strong>Academic Standing</strong></td>
+      <td align="center">🏆 <strong>Datathon Track</strong></td>
+      <td align="center">🏁 <strong>Hackathon Record</strong></td>
+    </tr>
+    <tr>
+      <td align="center">B.Tech Undergraduate<br>AI & Data Science<br><em>VESIT Mumbai</em></td>
+      <td align="center"><strong>9.63 CGPA</strong><br>(Upto Sem 4)<br><em>Top Tier</em></td>
+      <td align="center"><strong>1x Winner</strong><br>3rd Place (Team Leader)<br><em>IIT Bombay Techfest</em></td>
+      <td align="center"><strong>1x National Finalist</strong><br>Team Leader<br><em>PU Code Hackathon 3.0</em></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-### 🛠️ Technical Matrix
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core AI, Data Science & Machine Learning** | Generative AI, AI Agents, Machine Learning, Data Science, Data Analtics, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation, Deep Learning, Computer Vision |
-| **Languages** | Python, Java (OOP), Dart, SQL, HTML, JavaScript |
-| **Frameworks** | FastAPI, Scikit-learn, React.js, Flutter |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn, Catboost |
-| **Tools & Infrastructure** | Git, GitHub, Streamlit, Google Colab, Figma, Google AI Studio, Stitch, Canva |
-| **CS Fundamentals** | Data Structures & Algorithms, Database Management Systems, Operating Systems, Object-Oriented Programming |
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<h3 align="center">Frameworks & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+<h3 align="center">AI / ML Specialized Matrix</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/seaborn-4c72b0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/catboost-ff6600?style=for-the-badge" alt="Catboost" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -37,7 +102,7 @@ Proven in competitive technical environments, I focus on translating complex dat
 
 ---
 
-### 🏆 Achievements & Competitions
+## 🏆 Achievements & Competitions
 
 * 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level) · *Team Leader*
 * 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara · *Team Leader*
@@ -45,20 +110,56 @@ Proven in competitive technical environments, I focus on translating complex dat
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=a855f7&title_color=ffffff" alt="Harshal's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=000000&text=ffffff&ring=a855f7&fire=a855f7" alt="Harshal's GitHub Streak" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=ffffff" alt="Harshal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=a855f7&fire=a855f7" alt="Harshal's GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+## 🎓 Education
 
-I am always open to discussions regarding advanced machine learning pipelines, production-grade GenAI systems, and collaborative engineering opportunities.
+| Institution | Degree / Certificate | Score / Standing | Timeline |
+| :--- | :--- | :--- | :--- |
+| **VESIT Mumbai** | B.Tech in Artificial Intelligence & Data Science | **9.63 / 10 CGPA** *(Upto Sem 4)* | Aug 2024 – Present |
+| **B.N. Bandodkar College** | Higher Secondary Certificate (HSC) | **86.67 %** | Jun 2022 – Apr 2024 |
+| **A.K. Joshi English High School** | Secondary School Certificate (SSC) | **94.00 %** | Jun 2012 – Apr 2022 |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-pednekar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.pednekar@gmail.com)
+---
 
-> "Translating complex models into scalable architectures."
+## 💼 Experience
+
+🔬 **Data Analytics Intern** · *Tata GenAI Powered Platform (Virtual)*
+📅 *Aug 2024 – Present*
+* Leveraged GenAI architectures for complex data cleaning configurations and exploratory data analysis (EDA).
+* Synthesized business trend datasets to formulate strategic visual dashboards for corporate insight groups.
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  I am always open to discussions regarding advanced machine learning pipelines, production-grade GenAI systems, and collaborative engineering opportunities.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshal-pednekar" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harsh.pednekar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/harshalnnpednekar" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"Translating complex data metrics into dependable tools."</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
+</p>

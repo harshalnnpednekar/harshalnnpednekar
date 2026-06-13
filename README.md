@@ -50,8 +50,8 @@ For me, engineering is about taking complex data, driving team execution, and bu
     <tr>
       <td align="center">B.Tech Undergraduate<br>Artificial Intelligence & Data Science<br><em>VESIT Mumbai</em></td>
       <td align="center"><strong>9.63 CGPA</strong><br>(Upto Sem 4)<br><em>Top Tier</em></td>
-      <td align="center"><strong>1x Winner</strong><br>3rd Place (Team Leader)<br><em>IIT Bombay Techfest</em></td>
-      <td align="center"><strong>1x National Finalist</strong><br>Team Leader<br><em>PU Code Hackathon 3.0</em></td>
+      <td align="center"><strong>1x Winner</strong><br>3rd Place <br><em>IIT Bombay Techfest</em></td>
+      <td align="center"><strong>1x National Finalist</strong><em>PU Code Hackathon 3.0</em></td>
     </tr>
   </table>
 </p>
@@ -106,8 +106,8 @@ For me, engineering is about taking complex data, driving team execution, and bu
 ## 🏆 Achievements & Competitions
 
 * 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level) · 
-* 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara · 
-* ⚡ **Technical Competitions** — Selected Team Leader for the Invictus Hackathon. Active competitor in the Gemini 3 Hackathon and UIDAI Aadhaar Hackathon.
+* 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara (National Level) · 
+* ⚡ **Technical Competitions** — Team Leader for the Invictus Hackathon. Active competitor in the Gemini 3 Hackathon and UIDAI Aadhaar Hackathon.
 
 ---
 

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header" width="100%" alt="Header Banner" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Harshal Pednekar</h1>
 
@@ -30,15 +27,17 @@
 
 ## 🧑‍💻 About Me
 
-I am an **Artificial Intelligence** and **Data Science** student at VESIT who focuses on building intelligent systems that solve real-world problems. I thrive in fast-paced, competitive engineering environments—whether leading development teams under tight hackathon deadlines or constructing architectures from scratch. 
+I am an **Artificial Intelligence** and **Data Science** student at Vivekanand Education Society's Institute of Technology, who focuses on building intelligent systems that solve real-world problems. I thrive in fast-paced, competitive engineering environments—whether leading development teams under tight deadlines or constructing architectures from scratch. 
 
 My primary core domains and operational focus include:
-* **Machine Learning** & **Deep Learning** pipeline deployment
-* **Natural Language Processing (NLP)** & **Large Language Models (LLMs)**
-* **Retrieval-Augmented Generation (RAG)** systems & autonomous Agentic workflows
-* **Computer Vision** frameworks & advanced exploratory **Data Analytics**
+* **Artificial Intelligence** framework design & core **Data Science** system deployment
+* **Generative AI** enterprise architectures & autonomous **AI Agents** workflows
+* **Machine Learning** pipelines & deep architectural **Deep Learning** optimization
+* **Natural Language Processing (NLP)** development & **Large Language Models (LLMs)** tuning
+* Robust implementation of **Retrieval-Augmented Generation (RAG)** production systems
+* Functional **Computer Vision** engineering & advanced exploratory **Data Analytics**
 
-For me, engineering is about more than just writing code; it is about taking complex data, driving team execution, and building dependable tools that deliver actual impact.
+For me, engineering is about taking complex data, driving team execution, and building dependable tools that deliver actual impact.
 
 <p align="center">
   <table align="center">
@@ -162,8 +161,4 @@ For me, engineering is about more than just writing code; it is about taking com
 
 <p align="center">
   <em>"Translating complex data metrics into dependable tools."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>

@@ -105,8 +105,8 @@ For me, engineering is about taking complex data, driving team execution, and bu
 
 ## 🏆 Achievements & Competitions
 
-* 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level) · *Team Leader*
-* 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara · *Team Leader*
+* 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level) · 
+* 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara · 
 * ⚡ **Technical Competitions** — Selected Team Leader for the Invictus Hackathon. Active competitor in the Gemini 3 Hackathon and UIDAI Aadhaar Hackathon.
 
 ---

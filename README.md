@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshal-pednekar" target="_blank">
+  <a href="https://www.linkedin.com/in/harshal-pednekar-066554361" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/harshalnnpednekar" target="_blank">
@@ -114,13 +114,12 @@ For me, engineering is about taking complex data, driving team execution, and bu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=ffffff" alt="Harshal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=a855f7&fire=a855f7" alt="Harshal's GitHub Streak" width="48%" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=ffffff" alt="Harshal's GitHub Stats" width="60%" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=a855f7&fire=a855f7" alt="Harshal's GitHub Streak" width="60%" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalnnpednekar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=22c55e" alt="Harshal's Top Languages" width="60%" />
 </p>
-
 ---
 
 ## 🎓 Education
@@ -148,7 +147,7 @@ For me, engineering is about taking complex data, driving team execution, and bu
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshal-pednekar" target="_blank">
+  <a href="https://www.linkedin.com/in/harshal-pednekar-066554361" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harsh.pednekar@gmail.com" target="_blank">

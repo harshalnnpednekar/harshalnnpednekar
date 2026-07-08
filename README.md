@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/🏆%20HACKATHONS-1x%20WIN-black?style=for-the-badge&labelColor=1a1a1a&color=a855f7" alt="Hackathons" />
   <img src="https://img.shields.io/badge/📊%20ACADEMICS-9.63%20CGPA-black?style=for-the-badge&labelColor=1a1a1a&color=22c55e" alt="CGPA" />
   <img src="https://img.shields.io/badge/💼%20EXPERIENCE-TATA%20VIRTUAL%20INTERN-black?style=for-the-badge&labelColor=1a1a1a&color=0284c7" alt="Experience" />
-  <img src="https://img.shields.io/badge/🚀%20PROJECTS-3+%20SHIPPED-black?style=for-the-badge&labelColor=1a1a1a&color=f59e0b" alt="Projects" />
+  <img src="https://img.shields.io/badge/🚀%20REPOSITORIES-11-black?style=for-the-badge&labelColor=1a1a1a&color=f59e0b" alt="Repositories" />
 </p>
 
 <p align="center">
@@ -27,10 +27,6 @@
   <a href="mailto:harsh.pednekar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshalnnpednekar&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -80,35 +76,35 @@ For me, engineering is about taking complex data, driving team execution, and bu
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">Languages</h3>
 <p align="center">
+  <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h3 align="center">Frameworks</h3>
 <p align="center">
+  <strong>Frameworks</strong><br>
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-<h3 align="center">Tools</h3>
 <p align="center">
+  <strong>Tools</strong><br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h3 align="center">AI / ML Specialized Matrix</h3>
 <p align="center">
+  <strong>AI / ML Specialized Matrix</strong><br>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />

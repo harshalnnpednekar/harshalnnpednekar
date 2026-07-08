@@ -1,3 +1,5 @@
+<!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=150&section=header" width="100%"/>
 
 <h1 align="center">👋 Hi, I'm Harshal Pednekar</h1>
 
@@ -9,9 +11,13 @@
   <img src="https://img.shields.io/badge/🏆%20HACKATHONS-1x%20WIN-black?style=for-the-badge&labelColor=1a1a1a&color=a855f7" alt="Hackathons" />
   <img src="https://img.shields.io/badge/📊%20ACADEMICS-9.63%20CGPA-black?style=for-the-badge&labelColor=1a1a1a&color=22c55e" alt="CGPA" />
   <img src="https://img.shields.io/badge/💼%20EXPERIENCE-TATA%20VIRTUAL%20INTERN-black?style=for-the-badge&labelColor=1a1a1a&color=0284c7" alt="Experience" />
+  <img src="https://img.shields.io/badge/🚀%20PROJECTS-3+%20SHIPPED-black?style=for-the-badge&labelColor=1a1a1a&color=f59e0b" alt="Projects" />
 </p>
 
 <p align="center">
+  <a href="https://harshal-pednekar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/harshal-pednekar-066554361" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -21,6 +27,10 @@
   <a href="mailto:harsh.pednekar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshalnnpednekar&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -55,6 +65,16 @@ For me, engineering is about taking complex data, driving team execution, and bu
     </tr>
   </table>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 Nexus Developer Onboarding Agent** | AI Platform, Enterprise | Enterprise-grade autonomous onboarding platform that accelerates engineering integration by dynamically adapting learning paths and resources based on real-time technical proficiency and cognitive metrics. |
+| **📧 Email Spam Detection System** | Python, NLP, Scikit-learn, Streamlit | Engineered a 97% accuracy binary classification model using TF-IDF vectorization and Logistic Regression, featuring a live real-time text prediction custom interface. |
+| **🎓 Prashikshan NEP Platform** | React.js, Node.js, MongoDB, Express | Developed a multi-role data management platform for tracking metrics, automated logbook monitoring, and compliance analytics using a streamlined operational stack. |
 
 ---
 
@@ -94,19 +114,10 @@ For me, engineering is about taking complex data, driving team execution, and bu
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **📧 Email Spam Detection System** | Python, NLP, Scikit-learn, Streamlit | Engineered a 97% accuracy binary classification model using TF-IDF vectorization and Logistic Regression, featuring a live real-time text prediction custom interface. |
-| **🎓 Prashikshan NEP Platform** | React.js, Node.js, MongoDB, Express | Developed a multi-role data management platform for tracking metrics, automated logbook monitoring, and compliance analytics using a streamlined operational stack. |
-
----
-
 ## 🏆 Achievements & Competitions
 
-* 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level) · 
-* 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara (National Level) · 
+* 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level)
+* 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara (National Level)
 * ⚡ **Technical Competitions** — Team Leader for the Invictus Hackathon. Active competitor in the Gemini 3 Hackathon and UIDAI Aadhaar Hackathon.
 
 ---
@@ -114,12 +125,13 @@ For me, engineering is about taking complex data, driving team execution, and bu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=ffffff" alt="Harshal's GitHub Stats" width="60%" />
+  <!-- Note: GitHub readme stats might occasionally fail due to Vercel API rate limits. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=22c55e&title_color=ffffff" alt="Harshal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=22c55e&fire=22c55e" alt="Harshal's GitHub Streak" width="48%" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=a855f7&fire=a855f7" alt="Harshal's GitHub Streak" width="60%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalnnpednekar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=a855f7&title_color=22c55e" alt="Harshal's Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalnnpednekar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=22c55e&title_color=22c55e" alt="Harshal's Top Languages" width="60%" />
 </p>
+
 ---
 
 ## 🎓 Education
@@ -143,7 +155,7 @@ For me, engineering is about taking complex data, driving team execution, and bu
 ## 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  I am always open to discussions regarding advanced machine learning pipelines, production-grade GenAI systems, and collaborative engineering opportunities.
+  I'm always open to interesting projects, hackathon collabs, and new opportunities.
 </p>
 
 <p align="center">
@@ -159,5 +171,9 @@ For me, engineering is about taking complex data, driving team execution, and bu
 </p>
 
 <p align="center">
-  <em>"Translating complex data metrics into dependable tools."</em>
+  <br>
+  <em>"Build things that actually work."</em>
 </p>
+
+<!-- Footer Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=150&section=footer" width="100%"/>

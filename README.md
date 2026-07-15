@@ -42,6 +42,7 @@ My primary core domains and operational focus include:
 * **Natural Language Processing (NLP)** development & **Large Language Models (LLMs)** tuning
 * Robust implementation of **Retrieval-Augmented Generation (RAG)** production systems
 * Functional **Computer Vision** engineering & advanced exploratory **Data Analytics**
+* Hardening systems through **Cyber Security**, Cryptography, and Ethical Hacking principles
 
 For me, engineering is about taking complex data, driving team execution, and building dependable tools that deliver actual impact.
 
@@ -91,20 +92,26 @@ For me, engineering is about taking complex data, driving team execution, and bu
   <strong>Frameworks</strong><br>
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
 </p>
 
 <p align="center">
-  <strong>Tools</strong><br>
+  <strong>Tools & Infrastructure</strong><br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/google_ai_studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <p align="center">
   <strong>AI / ML Specialized Matrix</strong><br>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -117,9 +124,19 @@ For me, engineering is about taking complex data, driving team execution, and bu
 
 ## 🏆 Achievements & Competitions
 
+* 🏅 **Junior Technical Officer** — ISTE VESIT (Jul 2026)
 * 🥉 **3rd Position** — Zerve AI Datathon 2025, Techfest, IIT Bombay (National Level)
 * 🏁 **Finalist** — PU Code Hackathon 3.0, National Level, Vadodara (National Level)
 * ⚡ **Technical Competitions** — Team Leader for the Invictus Hackathon. Active competitor in the Gemini 3 Hackathon and UIDAI Aadhaar Hackathon.
+
+---
+
+## 📜 Certifications
+
+* **HackerRank:** 4 Star Badge in Python
+* **IBM:** AI Literacy, AI Fundamentals (Foundations for Understanding AI, Language and Vision in AI, Artificial Intelligence Fundamentals)
+* **Udemy:** Data Science, Machine Learning, DL and NLP Bootcamp | Ethical Hacking and Penetration Testing
+* **Oracle:** Artificial Intelligence and Machine Learning in Java
 
 ---
 
@@ -147,7 +164,7 @@ For me, engineering is about taking complex data, driving team execution, and bu
 
 ## 💼 Experience
 
-🔬 **Data Analytics Intern** · *Tata GenAI Powered Platform (Virtual)*
+🔬 **Data Analytics Intern** · *Tata Consultancy Services (Virtual)*
 * Leveraged Generative AI architectures for complex data cleaning configurations and exploratory data analysis (EDA).
 * Synthesized business trend datasets to formulate strategic visual dashboards for corporate insight groups.
 

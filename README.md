@@ -123,14 +123,27 @@ For me, engineering is about taking complex data, driving team execution, and bu
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Note: GitHub readme stats might occasionally fail due to Vercel API rate limits. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalnnpednekar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=22c55e&title_color=ffffff" alt="Harshal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=22c55e&fire=22c55e" alt="Harshal's GitHub Streak" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalnnpednekar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=ffffff&icon_color=22c55e&title_color=22c55e" alt="Harshal's Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalnnpednekar&theme=dark&hide_border=true&background=0D1117&text=ffffff&ring=22c55e&fire=22c55e" alt="Harshal's GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshalnnpednekar&bg_color=0D1117&color=ffffff&line=22c55e&point=ffffff&hide_border=true" alt="Harshal's Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 📈 Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshalnnpednekar&theme=dark" alt="Harshal's Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshalnnpednekar&theme=dark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshalnnpednekar&theme=dark" alt="Top Languages by Commit" width="48%" />
 </p>
 
 ---
